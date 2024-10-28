@@ -1,0 +1,144 @@
+.perent{
+    position: fixed;
+    z-index: 10;
+ background-color: white;
+  width:100% ;
+}
+.mane-nav{margin-top: 10px;
+margin-left: 70px;}
+.nav-1{margin-left: 50px;}
+
+h1{
+display: inline-flex;}
+h4{padding-top: 15px;
+    padding-left: 20px;
+}
+
+
+
+.a1{color: black;}
+.a2{color: black;}
+
+
+    .per{
+        font-weight: 700;margin-left: 600px;
+        margin-bottom: 100px;
+        
+    }
+    .chalid1{width: 50px;
+        margin-bottom: 20px;
+        height: 30px;
+    }
+    .chalid4{width: 45px;
+        height: 45px;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .chalid5{width:60px;
+        margin-top:20px ;
+        margin-bottom: 20px;
+    height: 50px;}
+    .chalid6{margin-left:80px ;
+    }
+    .what{width: 260px;
+    height: 35px;}
+    .form{width: 450px;
+    height: 30px; 
+    
+margin-left: 15px;}
+.bold{margin-left: 15px;
+font-size: large;} 
+.chalid7{
+margin-top: 100px;}
+.why{width: 140px;
+    height: 25px;
+    margin-left: 80px;font-size: large;
+    border-color: transparent;
+}
+.a1{margin-left: 85px;
+    
+ font-weight: bold;
+font-size:x-large ;}
+.buten{font-weight: bold; margin-left: 30px; font-size: large; color: black;} 
+
+.chalid9{display: inline-flex;margin-left: 80px;}
+.chalid10{margin-left:80px; display: inline-flex;}
+.chalid11{margin-left:80px; display: inline-flex;}
+.chalid12{margin-left:80px; display: inline-flex;}
+.chalid13{margin-left:80px; display: inline-flex;}
+.chalid14{margin-left:80px; display: inline-flex;}
+.chalid15{margin-left:80px; display: inline-flex;}
+.chalid16{margin-left:80px; display: inline-flex;}
+.chalid17{margin-left:80px; display: inline-flex;}
+.chalid18{margin-left:80px; display: inline-flex;}
+.chalid19{margin-left:80px; display: inline-flex;}
+.chalid20{margin-left:80px; display: inline-flex;}
+.chalid21{margin-left:80px; display: inline-flex;}
+.chalid22{margin-left:80px; display: inline-flex;}
+.chalid23{margin-left:80px; display: inline-flex;}
+.img1{width: 80px;}
+.img2{width: 80px;}
+.img3{width: 80px;}
+.img4{width: 80px;}
+.img5{width: 80px;}
+.img6{width: 80px;}
+.img7{width: 80px;}
+.img8{width: 80px;}
+.img9{width: 80px;}
+.img10{width: 80px;}
+.img11{width: 80px;}
+.img12{width: 80px;}
+.img13{width: 80px;}
+.img14{width: 80px;}
+#img15{width: 240px;
+height:250px ;}
+#img16{width: 250px;
+    height:250px ;}
+    #img17{width: 245px;
+        height:225px;
+    margin-top: 15px;}
+    #img18{width: 245px;
+        height:225px;
+    margin-top: 15px;}
+
+
+.chalid24{font-size: x-large;
+    font-weight: bold;
+margin-top: 50px;}
+.card{
+    border: 1px solid;
+    margin-top: 20px ;
+    margin-left: 5px;
+    width: 250px;
+    height:385px ;}
+    .card2{
+        border: 1px solid rgb(226, 226, 226);        
+        border-radius: 2px;
+        margin-top: 20px ;
+        margin-left: 60px;
+        width: 250px;
+        height:385px ;
+    }
+        .card3{
+            border: 1px solid rgb(226, 226, 226);
+            margin-top: 20px ;
+            margin-left: 60px;
+            width: 250px;
+            height:380px ;}
+            .card4{
+                border: 1px solid rgb(226, 226, 226);
+                margin-top: 20px ;
+                margin-left: 60px;
+                width: 250px;
+                height:380px ;}
+        .manecard{display: inline-flex;}
+        .card-text2{
+            margin-left: 13px;
+        }
+        .card-text3{margin-left: 13px; margin-top: 5px;}
+        
+
+
+
+
+
